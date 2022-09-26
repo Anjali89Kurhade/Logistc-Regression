@@ -5,11 +5,11 @@ Logistic regression is a statistical analysis method to predict a binary outcome
 Logistic Regression is one of the most simple and commonly used Machine Learning algorithms for two-class classification. It is easy to implement and can be used as the baseline for any binary classification problem.
 
 Properties of Logistic Regression:
-The dependent variable in logistic regression follows Bernoulli Distribution.
-Estimation is done through maximum likelihood.
-No R Square, Model fitness is calculated through Concordance, KS-Statistics.
+1) The dependent variable in logistic regression follows Bernoulli Distribution.
+2) Estimation is done through maximum likelihood.
+3) No R Square, Model fitness is calculated through Concordance, KS-Statistics.
 
 Types of Logistic Regression:
-Binary Logistic Regression: The target variable has only two possible outcomes such as Spam or Not Spam, Cancer, or No Cancer.
-Multinomial Logistic Regression: The target variable has three or more nominal categories such as predicting the type of Wine.
-Ordinal Logistic Regression: the target variable has three or more ordinal categories such as restaurant or product rating from 1 to 5.
+1) Binary Logistic Regression: The target variable has only two possible outcomes such as Spam or Not Spam, Cancer, or No Cancer.
+2) Multinomial Logistic Regression: The target variable has three or more nominal categories such as predicting the type of Wine.
+3) Ordinal Logistic Regression: the target variable has three or more ordinal categories such as restaurant or product rating from 1 to 5.
